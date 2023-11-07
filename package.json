@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "blakejs": "^1.2.1",
+    "deasync": "^0.1.29",
+    "tweetnacl": "^1.0.3"
+  }
+}
