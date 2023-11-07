@@ -15,3 +15,5 @@ execjs的安装是为 pip install PyExecJS==1.5.1  # 需要注意， 包的名�
 
 拿上 csrftoken 、 sessionid 可直接使用
 登录后建议使用 session 保持会话
+
+恰巧可以绕过 谷歌验证码
